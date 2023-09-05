@@ -1,0 +1,18 @@
+import json
+
+actions_dict='''
+ { 
+        "actions":[
+
+        {
+            "id":1,
+            "action":"addition"
+        },
+        {
+            "id":2,
+            "action":"multiplication"
+        }
+    
+
+      ]}  
+'''
