@@ -45,7 +45,7 @@ def jsonData1():
 
 @app.get("/json-file")
 def jsonDataFile():
-    action=json_data['actions'][1]['action']
+    action=json_data['actions'][0]['action']
     
     return  action
 
